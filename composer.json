@@ -1,0 +1,16 @@
+{
+    "name": "mitya/php-site",
+    "authors": [
+        {
+            "name": "Mitya Parmenov",
+            "email": "parmenov@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.14",
+        "slim/slim": "^2.6",
+        "twig/twig": "^1.18",
+        "slim/views": "^0.1.3",
+        "swiftmailer/swiftmailer": "^5.4"
+    }
+}
